@@ -1,1 +1,1 @@
-# localizing-and-planning-for-crazyflie-2.0-nano-quadcopters
+# localizing-and-path-planning-for-crazyflie-2.0-nano-quadcopters
